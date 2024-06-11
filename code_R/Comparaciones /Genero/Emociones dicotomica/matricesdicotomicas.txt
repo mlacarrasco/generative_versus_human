@@ -1,0 +1,11 @@
+Matriz confusion
+
+predpersonas     0  1  0 37  3  1  2 38
+
+Matriz hombres
+
+predHombres     0  1  0 38  2  1  2 38
+
+Matriz mujeres
+
+predMujeres     0  1  0 37  3  1  2 38> 

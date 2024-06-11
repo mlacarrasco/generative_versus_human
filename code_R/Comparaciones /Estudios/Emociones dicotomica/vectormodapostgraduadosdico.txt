@@ -1,0 +1,11 @@
+Moda postgraduados
+
+[1] 0 1 1 0 0 1 1 0 1 1 0 0 0 0 1 1 1 1 0 0 1 1 0 0 0 0 0 1 1 0 1 0 0 1 1 0[37] 0 0 1 1 0 0 1 1 1 1 0 0 1 1 0 0 0 1 0 0 1 0 0 1 1 1 0 0 0 0 1 1 0 1 0 1[73] 1 1 0 0 1 0 1 1
+
+Moda Graduados
+
+[1] 0 0 1 1 0 1 1 0 1 1 0 0 1 0 1 1 1 1 0 0 1 1 0 0 0 0 0 1 1 0 1 0 0 1 1 0[37] 0 0 1 1 0 0 1 1 1 1 0 0 1 1 0 0 0 1 0 1 1 0 0 1 1 1 0 0 0 0 1 1 0 1 0 1[73] 1 1 0 0 1 0 1 1
+
+table(IA$IA,predGraduados)
+   predGraduados     0  1  0 38  2  1  1 39> table(IA$IA,predPostgraduados)
+   predPostgraduados     0  1  0 38  2  1  3 37
